@@ -35,7 +35,7 @@ public class AppController {
 
 		this.repo.save(user);
 
-		return "register_user";
+		return "register_success";
 	}
 
 }
